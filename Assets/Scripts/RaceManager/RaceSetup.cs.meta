@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d5ef27e04467ad419189f52dd565794
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - database: {fileID: 11400000, guid: c44639bf2d8794a4fbaab779e53f4987, type: 2}
+  - spawnPoint: {instanceID: 0}
+  - raceManager: {instanceID: 0}
+  - cameraFollow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

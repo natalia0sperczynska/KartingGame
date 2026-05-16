@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9b46099347b0614290e7e1d7d3c7591, type: 3}
+  m_Name: CarGreu
+  m_EditorClassIdentifier: 
+  carId: car_grey
+  displayName: Car Grey
+  description: 
+  price: 200
+  previewSprite: {fileID: 21300000, guid: 616065faaf3e07e469f04b0d320c77c9, type: 3}
+  carPrefab: {fileID: 7282772008711335601, guid: 4d1624804e8167f479ab63c5302ff1d5, type: 3}
+  speed: 6
+  acceleration: 4
+  handling: 5
+  braking: 4
+  unlockedByDefault: 0

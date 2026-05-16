@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9b46099347b0614290e7e1d7d3c7591, type: 3}
+  m_Name: CarPurple
+  m_EditorClassIdentifier: 
+  carId: car_purple
+  displayName: Car Purple
+  description: 
+  price: 175
+  previewSprite: {fileID: 21300000, guid: 51c3ce731cdcda445af49a3e41e7d004, type: 3}
+  carPrefab: {fileID: 6645616114513181105, guid: 62010132604e8c94d96b4cb4fe6d3394, type: 3}
+  speed: 8
+  acceleration: 7
+  handling: 4
+  braking: 3
+  unlockedByDefault: 0
